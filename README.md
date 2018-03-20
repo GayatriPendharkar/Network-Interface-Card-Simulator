@@ -1,6 +1,7 @@
-Compilation Instructions for NIC Simulator:
 Language: Python 2.7
 External packages needed: numpy 1.10.4
+
+Compilation Instructions for NIC Simulator:
 
 1. Open NicSim.py in any linux machine with the following command:
 	$ python NicSim.py
